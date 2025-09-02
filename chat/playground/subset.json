@@ -1,0 +1,6 @@
+{"data":[
+    {"id":3,"type":"deleted","message":{"id":2,"chatId":1}},
+    {"id":1,"type":"new","message":{"id":1,"chatId":1,"body":"Text-1"}},
+    {"id":4,"type":"updated","message":{"id":1,"chatId":1,"body":"Text-1 updated"}},
+    {"id":2,"type":"new","message":{"id":2,"chatId":1,"body":"Text-10"}}
+]}
